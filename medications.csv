@@ -1,0 +1,4 @@
+patient,timestamp,medication
+1,"2022-03-26 07:01:42-0400","omeprazole 40 mg;pindolol 10 mg;bupropion-xr 300 mg;lisdexamfetamine 70 mg;tamsulosin 0.4 mg;venlafaxine 150 mg;clonazepam 1 mg;certrazline 10 mg;"
+1,"2022-03-26 15:22:15-0400","venlafaxine 150 mg;clonazepam 1 mg;"
+1,"2022-03-27 06:14:22-0400","omeprazole 40 mg;pindolol 10 mg;bupropion-xr 300 mg;lisdexamfetamine 70 mg;tamsulosin 0.4 mg;venlafaxine 150 mg;clonazepam 1 mg;certrazline 10 mg;"
