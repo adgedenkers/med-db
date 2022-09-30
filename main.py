@@ -6,15 +6,16 @@
 # -----------------------------------------------------------------------------
 
 # imports
-import datetime
-import pandas as pd
-import numpy as np
+from loguru import logger       # enterprise-grade logging
+import pendulum as dt           # drop-in replacement for datetime
+import pandas as pd             # data ETL
+import numpy as np              # number functions
 #import pyto_ui as ui
 
 # main function
 def main():
 
-    now = datetime.datetime.now()
+    now = dt.now("America/New York")
     now_str = now.strftime("%Y-%m-%d %H:%M:%S")
     df = pd.read_csv("medications.csv")
     print(df)

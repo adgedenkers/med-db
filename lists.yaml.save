@@ -1,0 +1,49 @@
+standard-tools:
+- tape-meassure
+- electric-screwdriver
+- screwdriver-bits
+	- phillips
+	- flat
+	- star
+- flashlight
+- adjustable-wrench
+- needle-nose-pliars
+- water-pump-pliars
+
+drills-drivers:
+- drill
+- driver
+
+precision-tools:
+- calipers
+- dept-guage
+- pressure-meter
+- multi-meter
+
+wood-tools:
+- saw-band
+- saw-table
+- saw-coping
+- saw-miter
+- saw-japanese-hand
+- saw-jim
+- saw-circular
+- saw-recipricating
+- saw-oscilating
+- drill-press
+- dovetail-jigg
+wood-lathe-tools:
+
+wood-carving-tools:
+
+
+
+office-tools:
+- electronics-screwdriver-set
+- flashlight
+- tape-measure
+- electronic-screwdriver
+- screwdriver-bits
+- wire-snips
+- wire-strippers
+
